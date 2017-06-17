@@ -320,9 +320,9 @@
 
 - [ng2-img-cropper](https://github.com/cstefanache/angular2-img-cropper) - Angular 2 Image Cropper.
 
+###### Avatar
 
-
-
+- [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 
 
 
